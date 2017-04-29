@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <malloc.h>
+#include <stdlib.h>
 
 #define LIST_INIT_SIZE 10
 #define LIST_INCREMENT 2
@@ -149,7 +149,7 @@ Status PriorElem(SqList L, ElemType cur_e, ElemType *pre_e) {
 
 /**
  * 初始条件：线性表 L 存在
- * 操作结果：若 cur_e 是 L 中的元素，且不是最后一个，则用 next_e 返回其前驱，否则失败，next_e 无定义
+ * 操作结果：若 cur_e 是 L 中的元素，且不是最后一个，则用 next_e 返回其后驱，否则失败，next_e 无定义
  * @param L
  * @param cur_e
  * @param next_e
