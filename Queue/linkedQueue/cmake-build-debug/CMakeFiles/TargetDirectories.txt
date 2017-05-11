@@ -1,3 +1,0 @@
-E:/workspace/DataStructure/Queue/linkedQueue/cmake-build-debug/CMakeFiles/linkedQueue.dir
-E:/workspace/DataStructure/Queue/linkedQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/workspace/DataStructure/Queue/linkedQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

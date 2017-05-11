@@ -1,4 +1,0 @@
-"E:\Software\JetBrains\CLion 2017.1.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\workspace\DataStructure\Queue\orderQueue
--- Configuring done
--- Generating done
--- Build files have been written to: E:/workspace/DataStructure/Queue/orderQueue/cmake-build-debug
